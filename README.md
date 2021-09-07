@@ -1,2 +1,3 @@
-# vsu-sysadm-doc-data
-Documentation for my VSU System Administration course. There are my lectures synopsis.
+# Оглавление
+
+1. [Вводная лекция](./synopsis/08-09-2021.md)
